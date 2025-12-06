@@ -7,7 +7,8 @@ public class pattern {
         int n = sc.nextInt();
         // int m = sc.nextInt();
         // int number = 1;
-
+        
+        // shapes printin logic 
         //  solid square shape
         // for(int i=1; i<=n; i++){
         //     for(int j=1; j<=m; j++){
@@ -96,3 +97,4 @@ public class pattern {
     }
     
 }
+
