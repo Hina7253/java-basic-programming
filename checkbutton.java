@@ -26,9 +26,12 @@ public class checkbutton {
             break;
             case 5 : System.out.println("Jay shree shyam");
             break;
+            case 6 : System.out.println("Jay Radhe");
+            break;
             default : System.out.println("inavlid button");
         }
     }
     
 }
+
 
