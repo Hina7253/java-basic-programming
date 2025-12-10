@@ -21,6 +21,7 @@ public class arraylist {
         list.add(7);
         list.add(2);
         list.add(8);
+        list.add(9);
         System.out.println("Original List" + list);
         Collections.reverse(list);
         // reverseList(list);
@@ -32,3 +33,4 @@ public class arraylist {
          
     }
 }
+
