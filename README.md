@@ -30,4 +30,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 ---
 
 ## 🚀 How to Run
+1. Clone the repository  
+2. Open in your Java IDE  
+3. Compile and run any `.java` file  
 
