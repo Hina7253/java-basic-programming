@@ -8,4 +8,8 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 - Variables & Data Types  
 - Operators  
 - Conditional Statements (if-else, switch)  
-- Loops (for, while, do-while)  
+- Loops (for, while, do-while)
+-  Arrays  
+- Methods  
+- Basic Pattern Programs  
+- Simple Number Programs (Palindrome, Prime, Factorial, etc.)  
