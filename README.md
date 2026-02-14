@@ -29,3 +29,5 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 
 ---
 
+## 🚀 How to Run
+
