@@ -25,5 +25,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 ## 🛠 Tech Used
 - Java  
 - VS Code / IntelliJ IDEA  
-- Git & GitHub  
+- Git & GitHub
+
+---
 
