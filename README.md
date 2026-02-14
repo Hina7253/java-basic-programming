@@ -12,4 +12,6 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 -  Arrays  
 - Methods  
 - Basic Pattern Programs  
-- Simple Number Programs (Palindrome, Prime, Factorial, etc.)  
+- Simple Number Programs (Palindrome, Prime, Factorial, etc.)
+
+--- 
