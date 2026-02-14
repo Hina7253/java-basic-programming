@@ -1,2 +1,6 @@
-# java-basic-programming
-This is my basic java programming during my learning
+# ☕ Java Basic Programs
+
+This repository contains my **Java basic practice programs** created while learning core Java concepts.  
+It includes beginner-level programs to strengthen fundamentals and problem-solving skills.
+
+---
