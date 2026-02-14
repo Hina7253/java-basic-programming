@@ -4,3 +4,4 @@ This repository contains my **Java basic practice programs** created while learn
 It includes beginner-level programs to strengthen fundamentals and problem-solving skills.
 
 ---
+## 📚 Topics Covered
