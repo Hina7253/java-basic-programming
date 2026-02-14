@@ -19,5 +19,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 - Practice core Java concepts  
 - Improve logical thinking  
 - Build a strong programming foundation  
-- Track my learning progress  
+- Track my learning progress
+
+---
 
