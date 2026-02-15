@@ -11,6 +11,7 @@ public class Palindrome{
              // find the last digit
             int digit = n % 10;
             reverse = reverse*10 + digit;
+             // meke the number smaller
             n = n / 10;
         }
         if(original==reverse){
@@ -22,3 +23,4 @@ public class Palindrome{
 
 
 }
+
