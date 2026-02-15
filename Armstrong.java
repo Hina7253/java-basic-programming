@@ -7,6 +7,7 @@ public class Armstrong {
         int original = n;
         int sum = 0;
         while(n>0){
+            // find last digit of a number
             int digit = n%10;
             sum = sum + (digit * digit * digit);
             n = n /10;
@@ -18,3 +19,4 @@ public class Armstrong {
         }
     }
 }
+
