@@ -10,6 +10,7 @@ public class Armstrong {
             // find last digit of a number
             int digit = n%10;
             sum = sum + (digit * digit * digit);
+            // make this number smaller
             n = n /10;
         }
         if(original==sum){
@@ -19,4 +20,5 @@ public class Armstrong {
         }
     }
 }
+
 
