@@ -8,6 +8,7 @@ public class Palindrome{
         int reverse = 0;
          
         while(n>0){
+             // find the last digit
             int digit = n % 10;
             reverse = reverse*10 + digit;
             n = n / 10;
@@ -18,5 +19,6 @@ public class Palindrome{
             System.out.println("Not Palindrome");
         }
      }
+
 
 }
