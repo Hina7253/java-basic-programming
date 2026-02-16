@@ -22,7 +22,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 - Track my learning progress
 
 ---
-## 🛠 Tech Used
+
 - Java  
 - VS Code / IntelliJ IDEA  
 - Git & GitHub
