@@ -8,7 +8,7 @@ public class calculator {
         char operator = Sc.next().charAt(0);
         System.out.println("enter second number");
         Double b = Sc.nextDouble();
-        Double result;
+
 
         switch (operator) {
             case '+': result = a+b;
@@ -36,6 +36,7 @@ public class calculator {
     }
     
 }
+
 
 
 
