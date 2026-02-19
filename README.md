@@ -14,7 +14,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 - Basic Pattern Programs  
 - Simple Number Programs (Palindrome, Prime, Factorial, etc.)
 
-
+--- 
 
 - Practice core Java concepts  
 - Improve logical thinking  
