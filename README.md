@@ -9,7 +9,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 - Operators
 - Conditional Statements (if-else, switch)  
 - Loops (for, while, do-while)
--  Arrays  
+- Arrays  
 - Methods  
 - Basic Pattern Programs  
 - Simple Number Programs (Palindrome, Prime, Factorial, etc.)
