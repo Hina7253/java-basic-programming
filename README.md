@@ -5,7 +5,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 
 ---
 ## 📚 Topics Covered
-
+- Variables & Data Types 
 - Operators
 - Conditional Statements (if-else, switch)  
 - Loops (for, while, do-while)
