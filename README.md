@@ -13,6 +13,7 @@ It includes beginner-level programs to strengthen fundamentals and problem-solvi
 - Methods  
 - Basic Pattern Programs  
 - Simple Number Programs (Palindrome, Prime, Factorial, etc.)
+- Basic Java Programs
 
 --- 
 
